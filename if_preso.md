@@ -1,6 +1,6 @@
 ---
 title: You’re Likely to be Eaten by a Grue
-subtitle: foo
+subtitle: A Brief Introduction to Interactive Fiction
 author: Jeremy Austin Clewell
 patat:
     wrap: true
@@ -1124,7 +1124,7 @@ _electron based:_
 
 [The Digital Antiquarian](http://www.filfre.net/)
 
-[Formums](http://www.intfiction.org/)
+[Forums](http://www.intfiction.org/)
 
 ASCII art:
 * http://ascii.co.uk/art
